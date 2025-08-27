@@ -1,3 +1,8 @@
+## Getting to know the structure
+
+This is a demo on how to use a feature-folder structure I proposed for a React Native Application with Vite:
+[How to structure a React App in 2025 (SPA, SSR or Native)](https://ramonprata.medium.com/how-to-structure-a-react-app-in-2025-spa-ssr-or-native-10d8de7a245a)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

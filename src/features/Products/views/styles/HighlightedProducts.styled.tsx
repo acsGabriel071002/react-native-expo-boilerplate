@@ -1,5 +1,5 @@
-import { BoxContent } from "@/src/shared/components";
 import styled from "@emotion/native";
+import { BoxContent } from "@shared/components";
 
 export const HighlightedProductsContainer = styled(BoxContent)({
   padding: 16,

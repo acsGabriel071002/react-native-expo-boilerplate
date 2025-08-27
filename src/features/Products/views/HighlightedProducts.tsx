@@ -1,4 +1,4 @@
-import { ThemedText } from "@/src/shared/components";
+import { ThemedText } from "@shared/components";
 import { FlatList, View } from "react-native";
 import { useLoadHighlightedProducts } from "../hooks/useLoadProducts";
 import { IProductView } from "../types/IProduct";
